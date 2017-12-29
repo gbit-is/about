@@ -4,7 +4,7 @@ isn't so specific to my work that it might benefit others
 
 # Projects
 
-## Xymon Related Projects
+### Xymon Related Projects
 
 [Jymon -- JSON for Xymon](https://github.com/gbit-is/Jymon)
 
