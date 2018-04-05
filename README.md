@@ -9,3 +9,9 @@ isn't so specific to my work that it might benefit others
 [Jymon -- JSON for Xymon](https://github.com/gbit-is/Jymon)
 
 [AIX-BB-VG -- AIX test to monitor VG status](https://github.com/gbit-is/aix-bb-vg)
+
+### Icelandic projects
+
+[IPPA - Undocumented post-service API](https://github.com/gbit-is/ippa)
+
+[SSL-ICE -- Report on HTTPS usage on .is URLs](https://github.com/gbit-is/sslice)
