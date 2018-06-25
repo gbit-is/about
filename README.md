@@ -10,6 +10,8 @@ isn't so specific to my work that it might benefit others
 
 [AIX-BB-VG -- AIX test to monitor VG status](https://github.com/gbit-is/aix-bb-vg)
 
+[Photon-Xymon -- Xymon Client for PhotonOS](https://github.com/gbit-is/photon-xymon)
+
 ### Icelandic projects
 
 [IPPA - Undocumented post-service API](https://github.com/gbit-is/ippa)
